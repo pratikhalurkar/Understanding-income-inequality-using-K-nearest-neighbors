@@ -1,1 +1,0 @@
-# Understanding-income-inequality-using-K-nearest-neighbors
