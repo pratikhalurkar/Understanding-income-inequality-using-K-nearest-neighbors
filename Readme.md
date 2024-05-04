@@ -1,12 +1,4 @@
-Pratik Amol Halurkar
-
-Module 1 assignment
-
-ALY6020: Predictive Analytics (CRN: 20356)
-
-Prof. Justin Grosz
-
-2/25/2024
+#Understnading Income Inequality using K-nearest neighbor
 
 # Introduction
 
@@ -384,7 +376,7 @@ alt="A screenshot of a computer" />
 
 <!-- -->
 
-4.  
+
 
 # Real-world Applicability
 
