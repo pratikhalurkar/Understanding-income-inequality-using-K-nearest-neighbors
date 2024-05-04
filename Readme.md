@@ -1,4 +1,4 @@
-#Understnading Income Inequality using K-nearest neighbor
+# Understnading Income Inequality using K-nearest neighbor
 
 # Introduction
 
